@@ -10,6 +10,7 @@ A BPM analyzer designed for live musicians using DAWs like Ableton or VJs who wa
 </p>
 <br/>
 Advantages:
+
  
    - Very accurate regardless of the music genre (+/- 0.10)
    - Ableton Link is integrated, allowing connection to a wide range of VJ software, DAWs, and more.
@@ -17,6 +18,7 @@ Advantages:
    - Works with low-quality signals, such as a microphone input.
 <br/>
 Installation:
+
 
    1. Download all files in the repository and save them in a new folder.
    2. cd into the new folder via command line
