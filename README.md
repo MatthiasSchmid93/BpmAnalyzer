@@ -17,5 +17,6 @@ Advantages:
 Installation:
 
    1. Download all files in the repository and save them in a new folder.
-   2. Run BpmAnalyzer.py from the command line.
-   3. For a compiled version (.exe), please contact me.
+   2. cd into the new folder via command line
+   3. Run BpmAnalyzer.py from the command line.
+   4. For a compiled version (.exe), please contact me.
