@@ -18,5 +18,5 @@ Installation:
 
 1. Download all files in the repository and save them in a new folder
 2. Run BpmAnalyzer.py from the commandline
-3. For a compiled version (exe) contact me
+3. For a compiled version (.exe) contact me
 
