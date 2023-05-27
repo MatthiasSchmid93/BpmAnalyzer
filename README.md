@@ -5,7 +5,6 @@
 </p>
 <p align="center">
 A BPM analyzer for live musicians that are using DAWs like Ableton,.. or Vjs that want play with other Artists together and focus more on the performance instead of wasting time finding the right tempo of a source that cannot digitaly be synced.
-
 The operating range is between 110-160 BPM, as for now it only looks in this range.
 </p>
 The advantages:
