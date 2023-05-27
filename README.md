@@ -1,9 +1,9 @@
 # ![plot](./bpm.png) BpmAnalyzer Ver 2.0
-
+<br/>
 <p align="center">
 A BPM analyzer designed for live musicians using DAWs like Ableton or VJs who want to collaborate with other artists and focus more on performance instead of wasting time finding the right tempo of a source that cannot be digitally synced. The operating range is currently set between 110-160 BPM.
 </p>
-<br />
+<br/>
 
 <p align="center">
  <img src="./UI.png">
