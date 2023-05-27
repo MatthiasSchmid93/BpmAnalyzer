@@ -5,6 +5,10 @@ A BPM analyzer designed for live musicians using DAWs like Ableton or VJs who wa
 </p>
 <p> </p>
 
+
+
+
+
 <p align="center">
  <img src="./UI.png">
 </p>
