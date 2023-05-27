@@ -8,11 +8,13 @@ A BPM analyzer for live musicians that are using DAWs like Ableton,.. or Vjs tha
 The operating range is between 110-160 BPM, as for now it only looks in this range.
 </p>
 
-The advantages:
+
+Advantages:
 
 - Very accurate regardless wich music genre (+-0.10)
 - Ableton Link is integrated so it can connect to a wide range of VJ Software, DAWs and more
 - MIDI mapping implementation for sending the BPM to the connected programms
+
 
 
 Installation:
