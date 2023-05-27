@@ -8,14 +8,14 @@ A BPM analyzer designed for live musicians using DAWs like Ableton or VJs who wa
 <p align="center">
  <img src="./UI.png">
 </p>
-
+<br/>
 Advantages:
  
    - Very accurate regardless of the music genre (+/- 0.10)
    - Ableton Link is integrated, allowing connection to a wide range of VJ software, DAWs, and more.
    - MIDI mapping implementation for sending the BPM to connected programs.
    - Works with low-quality signals, such as a microphone input.
-
+<br/>
 Installation:
 
    1. Download all files in the repository and save them in a new folder.
