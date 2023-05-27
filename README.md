@@ -10,4 +10,8 @@ The advantages:
 - Ableton Link is integrated so it can connect to a wide range of VJ Software, DAWs and more
 - MIDI mapping implementation for sending the BPM to the connected programms
 
+Installation:
+
+1. Download all files in the repository and save them in a new folder
+2. Run BpmAnalyzer.py from the commandline
 
