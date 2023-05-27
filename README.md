@@ -10,16 +10,14 @@ A BPM analyzer designed for live musicians using DAWs like Ableton or VJs who wa
 </p>
 <br/>
 Advantages:
-
- 
+<br/>
    - Very accurate regardless of the music genre (+/- 0.10)
    - Ableton Link is integrated, allowing connection to a wide range of VJ software, DAWs, and more.
    - MIDI mapping implementation for sending the BPM to connected programs.
    - Works with low-quality signals, such as a microphone input.
 <br/>
 Installation:
-
-
+<br/>
    1. Download all files in the repository and save them in a new folder.
    2. cd into the new folder via command line
    3. Run BpmAnalyzer.py from the command line.
