@@ -13,6 +13,7 @@ Advantages:
 - Very accurate regardless wich music genre (+-0.10)
 - Ableton Link is integrated so it can connect to a wide range of VJ Software, DAWs and more
 - MIDI mapping implementation for sending the BPM to the connected programms
+- Works also with bad quality signals like a microphone input
 
 Installation:
 
