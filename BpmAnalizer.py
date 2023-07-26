@@ -606,7 +606,7 @@ def main() -> None:
         modules.audio_streamer.start_stream(choosen_audio_device)
         ThreadingEvents.start_trigger_set_bpm_thread(modules, user_mapping)
         ThreadingEvents.start_run_analyzer_thread(modules)
-        if modules.open_window.main_window(modules):
+        if modules.open_window.main_window(modules): # Main loop
             modules.audio_streamer.stop_stream()
             modules.midi_interface.close_ports
             ThreadingEvents.stop_threads
