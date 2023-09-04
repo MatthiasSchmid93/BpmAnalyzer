@@ -56,21 +56,18 @@ class ThreadingEvents:
         Thread(
             target=UserInterface.update_link_button,
             args=(main_window, modules),
-            daemon=True,
         ).start()
         
     def start_refresh_main_window_thread(main_window: object, modules: object) -> None:
         Thread(
             target=WindowReader.refresh_main_window,
             args=(main_window, modules),
-            daemon=True,
         ).start()
         
     def start_trigger_set_bpm_thread(modules: object, user_mapping: object) -> None:
         Thread(
             target=modules.midi_interface.trigger_set_bpm,
             args=(modules, user_mapping),
-            daemon=True,
         ).start()
         
     def start_run_analyzer_thread(modules: object) -> None:
